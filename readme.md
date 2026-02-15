@@ -26,7 +26,7 @@ Pour moi, Docker n'est pas juste un outil, c'est une discipline. Mes projets son
 
 ---
 
-## ⚡ Niveau 1 : Les Fondations (Clean Code & Optimisation)
+##  Niveau 1 : Les Fondations (Clean Code & Optimisation)
 
 Ces projets montrent que je maîtrise les bases de manière irréprochable.
 
@@ -139,3 +139,4 @@ Au-delà des projets, j'applique systématiquement une "checklist" de sécurité
 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/+237686865451)
+[![Moreldev237](https://img.shields.io/badge/Moreldev237-red.svg)](https://github.com/Moreldev237)
