@@ -225,16 +225,12 @@ See [the Releases section of our project](https://github.com/coreui/coreui-free-
 * <https://github.com/coreui>
 * <https://github.com/orgs/coreui/people>
 
+## Support CoreUI Development
 
-
-**⭐ N'hésitez pas à me contacter pour discuter de ces projets ou de vos besoins en matière d'architecture conteneurisée.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/morel-nkonga-5617a32a8/)
-
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/+237686865451)
-[![Moreldev237](https://img.shields.io/badge/Moreldev237-red.svg)](https://github.com/Moreldev237)
+CoreUI is an MIT-licensed open source project and is completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying the [CoreUI PRO](https://coreui.io/pricing/?framework=react&src=github-coreui-free-react-admin-template) or by becoming a sponsor via [Open Collective](https://opencollective.com/coreui/).
 
 ## Copyright and License
 
-copyright 2026 NKONGA TADJUIDJE MOREL.   
+copyright 2025 creativeLabs Łukasz Holeczek.   
+
+Code released under [the MIT license](https://github.com/coreui/coreui-free-react-admin-template/blob/main/LICENSE).
