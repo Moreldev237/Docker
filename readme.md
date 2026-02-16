@@ -38,7 +38,7 @@ Ces projets montrent que je maîtrise les bases de manière irréprochable.
     - Rédaction de Dockerfile optimisés.
     - Réduction de la taille de l'image (souvent de 1GB à moins de 50MB).
     - Utilisation de `.dockerignore`.
-- *👉 Lien vers le projet (en attente `/*`)*
+- *👉 Lien vers le projet (`https://coreui.io/product/free-react-admin-template/`)*
 
 ### 2. projet full stack (blog en Django) avec Docker Compose
 
